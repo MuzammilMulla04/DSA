@@ -31,10 +31,16 @@ cd DSA
 
 ---
 
-## 📝 Programs
-Program Title	Description	Solution Status
-1-Reverse The Array	Reverse the elements of an array	Complete
-(More programs coming soon)		
+## 📝 Programs Structure 
+| Sr No. | Problem Title           | Data Structure | Algorithm Type    | Difficulty | Topic/ Concept | Frequency of Use  | Platform Links/Status | CodingNinjas Status | LeetCode Status  | Local Link      | Repo Link       |
+|--------|-------------------------|----------------|-------------------|------------|----------------|-------------------|-----------------------|---------------------|------------------|-----------------|-----------------|
+| 1      | Reverse The Array       | Array          | In-place          | Easy       | Swap           | High              | [Link](#)             | Done                | Done             | [Link](#)       | [Link](#)       |
+| 2      | Merge Two Sorted Lists  | Linked List    | Merge Sort        | Medium     | Merging        | Medium            | [Link](#)             | Attempted           | Attempted        | [Link](#)       | [Link](#)       |
+| 3      | Valid Parentheses       | Stack          | Stack Operations  | Easy       | Parentheses    | High              | [Link](#)             | Review              | Review           | [Link](#)       | [Link](#)       |
+| 4      | Kth Largest Element     | Array          | Quick Select      | Medium     | Selection      | Medium            | [Link](#)             | To Do               | To Do            | [Link](#)       | [Link](#)       |
+| 5      | Find Duplicate Number   | Array          | Hashing           | Hard       | Hash Table     | Medium            | [Link](#)             | To Do               | To Do            | [Link](#)       | [Link](#)       |
+
+
 
 Each program includes detailed comments and an explanation to help you understand the approach and solution.
 
@@ -47,11 +53,11 @@ Check out the Resources folder for additional learning materials, recommended bo
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open a pull request with new programs, improvements, or optimizations.
-- Fork the repository
-- Create a new branch (git checkout -b feature-branch)
-- Commit your changes (git commit -m 'Add feature')
-- Push to the branch (git push origin feature-branch)
-- Open a pull request
+1. Fork the repository
+2. Create a new branch ```git checkout -b feature-branch```
+3. Commit your changes ```git commit -m 'Add feature'```
+4. Push to the branch  ```git push origin feature-branch```
+5. Open a pull request
 
 ---
 
