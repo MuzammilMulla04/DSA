@@ -137,7 +137,7 @@ vector<int> segmentedSieve(int n) {
 
     // Use each prime to mark its multiples in the current segment
         for(int& prime: primes) {
-            int start= max(prime * prime, (low + prime - 1)/prime * prime);
+            int start= max(prime * prime, ((low + prime - 1)/prime) * prime);
 
             for(int j= start; j <= high; j += prime) {
                 mark[j - low]= false;               // Mark as non-prime in the segment
