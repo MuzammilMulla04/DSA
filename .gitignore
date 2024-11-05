@@ -1,5 +1,4 @@
-Resources/Index - Babbar.xlsx
-Resources/Index - Backup.xlsx
+.vscode/
+Resources/Index*.xlsx
+Resources/~$*
 *.exe
-Resources/~$Index.xlsx
-.vscode/settings.json
